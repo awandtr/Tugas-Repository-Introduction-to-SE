@@ -7,3 +7,6 @@ int main(){
 cout <<"Punya Diatra!!!";
 }
 return 0;
+
+
+Scam asw
